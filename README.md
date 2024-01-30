@@ -4,6 +4,7 @@
 
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
+- [Tools](#tools)
 - [Data Cleaning](#data-cleaning)
 - [Summary](#summary)
 - [References](#references)
@@ -14,7 +15,7 @@ This project shows the process of cleaning data in SQL to eliminate errors and i
 ### Data Sources
 The primary dataset used in this project is the "Nashville_Housing_CSV", containing detailed information about housing in Nashville.
 
-###Tools
+### Tools
 - SQL Server
 
 ### Data Cleaning
