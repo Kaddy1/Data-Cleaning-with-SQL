@@ -176,8 +176,7 @@ DROP COLUMN OwnerAddress, TaxDistrict, PropertyAddress
 ```
 
 ### Summary 
-In this project, I tried some of the common data-cleaning techniques for tidy data. Data should be complete, correct, and relevant for effective analysis in other to provide insight into the problem you're trying to slove.
+In this project, I tried some of the common data-cleaning techniques for tidy data. Data should be complete, correct, and relevant for effective analysis in other to provide insight into the problem you're trying to solve.
 
-### References
-[Youtube](https://www.youtube.com/watch?v=8rO7ztF4NtU&t=155s)
+
 
