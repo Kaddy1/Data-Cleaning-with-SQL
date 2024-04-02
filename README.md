@@ -7,6 +7,7 @@
 - [Tools](#tools)
 - [Data Cleaning](#data-cleaning)
 - [Summary](#summary)
+- [References](#summary)
 
 
 ### Project Overview
@@ -178,5 +179,7 @@ DROP COLUMN OwnerAddress, TaxDistrict, PropertyAddress
 ### Summary 
 In this project, I tried some of the common data-cleaning techniques for tidy data. Data should be complete, correct, and relevant for effective analysis in other to provide insight into the problem you're trying to solve.
 
+### References
+Guided by Alextheanalyst
 
 
